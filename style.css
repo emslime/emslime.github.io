@@ -9,7 +9,12 @@ body {
   padding: 13px;
   margin: 20px;
   border-radius: 4px;
-  background-color: #54436B;
+  background-color: #e65d7f;
   color: #fff;
   border: 1.5px solid #fff;
+}
+
+.portfolio:hover {
+  cursor: pointer;
+  padding: 15px;
 }
