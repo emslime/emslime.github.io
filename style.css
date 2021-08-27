@@ -1,5 +1,13 @@
 body {
   background-color: #252525;
-  color: white;
+  color: #fff;
   text-align: center;
+  font-family: monospace;
+}
+
+.portfolio {
+  padding: 8px;
+  background-color: #54436B;
+  color: #fff;
+  border: 1px solid #fff;
 }
